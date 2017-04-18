@@ -1,0 +1,47 @@
+{
+  "name": "node-bootstrap3-template",
+  "version": "0.0.1",
+  "description": "a template for express, node.js, and twitter bootstrap 3",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mjhea0/node-bootstrap3-template.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "template",
+    "twitter",
+    "bootstrap",
+    "bootstrap3"
+  ],
+  "author": "Michael Herman <michael@mherman.org>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "chai": "^3.4.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2",
+    "express-session": "^1.15.2",
+    "jade": "^0.34.1",
+    "method-override": "^2.3.8",
+    "mocha": "^2.3.4",
+    "mongodb": "^2.2.25",
+    "mongoose": "^4.9.3",
+    "morgan": "^1.8.1",
+    "passport": "^0.3.2",
+    "passport-facebook": "^2.0.0",
+    "passport-github2": "^0.1.9",
+    "passport-google-oauth2": "git+https://github.com/AaronNGray/passport-google-oauth2.git",
+    "passport-instagram": "^1.0.0",
+    "passport-linkedin-oauth2": "^1.5.0",
+    "passport-pinterest": "^1.0.0",
+    "passport-twitter": "^1.0.3",
+    "passport-vkontakte": "^0.3.2",
+    "should": "^7.1.1"
+  }
+}

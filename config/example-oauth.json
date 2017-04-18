@@ -1,0 +1,42 @@
+{
+  "facebook": {
+    "clientID": "",
+    "clientSecret": "",
+    "callbackURL": "http://localhost:3000/auth/facebook/callback"
+  },
+  "twitter": {
+    "consumerKey": "",
+    "consumerSecret": "",
+    "callbackURL": "http://localhost:3000/auth/twitter/callback"
+  },
+  "github": {
+    "clientID": "",
+    "clientSecret": "",
+    "callbackURL": "http://localhost:3000/auth/github/callback"
+  },
+  "google": {
+    "clientID": "",
+    "clientSecret": "",
+    "callbackURL": "http://localhost:3000/auth/google/callback"
+  },
+  "linkedin": {
+    "clientID": "",
+    "clientSecret": "",
+    "callbackURL": "http://localhost:3000/auth/linkedin/callback"
+  },
+  "instagram": {
+    "clientID": "",
+    "clientSecret": "",
+    "callbackURL": "http://localhost:3000/auth/instagram/callback"
+  },
+  "pinterest": {
+    "clientID": "",
+    "clientSecret": "",
+    "callbackURL": "https://localhost:3000/auth/pinterest/callback"
+  },
+  "vkontakte": {
+    "clientID": "",
+    "clientSecret": "",
+    "callbackURL": "http://localhost:3000/auth/vkontakte/callback"
+  }
+}
